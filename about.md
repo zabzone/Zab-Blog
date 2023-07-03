@@ -1,18 +1,16 @@
 ---
-title: Colophon
+title: Zab
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Yo wassup! Currently an employee for a big pharma ~ livin gin the Carolinas, US. The blog is documentation for my admin and engineering 🎒 journey.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+He's an employee for a big pharma ~ living in the Carolinas. The blog is for documentation about his admin and engineering 🎒 journey, running on jekyll, hosted on netlify and using a theme from Mahendrata Harpi (GitHub) named <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learn gaming, containerization, and Apple specific technologies; ~ this blog is meant to keep him involved.
 
-If you have a question about him or else, just send a letter to him.
+If you have a question about him, or anything else, feel free to email him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+**be a goldfish ✨🎏**
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- [zab@zab.zone](mailto:zab@zab.zone)
+- <a href="https://github.com/zabzone" target="_blank">https://github.com/zabzone</a>

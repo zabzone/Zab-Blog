@@ -2,12 +2,14 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Thanks to amazing people that have helped me, lended a hand, coached me, and assisted me out of foolish situations; thanks to those who've connected me with others who are smarter, brighter, humbler, more patient, and natural educators ~ without this assistance, I do not know who, what or where I would be. You are all an example of greatness I strive to achieve.
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+Thanks to amazing people that have helped me, lended a hand, coached me, and assisted me out of foolish situations; thanks to those who've connected me with others who are smarter, brighter, humbler, more patient, and natural educators ~ without this assistance, I do not know who, what or where I would be. You are all an example of greatness I strive to achieve.
 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+May the knoldge passed be put to good use; may I use it so that it can be labeled a charitable event for them.
+
+Forever your comrade,<br>Zab
