@@ -10,6 +10,6 @@ Thanks to amazing people that have helped me, lended a hand, coached me, and ass
 
 <hr>
 
-May the knoldge passed be put to good use; may I use it so that it can be labeled a charitable event for them.
+May the knowldge passed be put to good use; may I use it so that it can be labeled a charitable event for them.
 
 Forever your comrade,<br>Zab
