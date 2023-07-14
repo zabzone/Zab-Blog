@@ -2,7 +2,7 @@
 title: Zab
 permalink: /about/
 layout: page
-excerpt: Yo wassup! Currently an employee for a big pharma ~ livin gin the Carolinas, US. The blog is documentation for my admin and engineering 🎒 journey.
+excerpt: Yo wassup! Currently an employee for a big pharma ~ living in the Carolinas, US. The blog is documentation for my admin and engineering 🎒 journey.
 comments: false
 ---
 
